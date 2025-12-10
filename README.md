@@ -39,10 +39,10 @@ April 10, 1982:
 
 ## References
 
-- How to Program Fibonacci Sequence Recursively | Python for Math: https://www.youtube.com/watch?v=Qk0zUZW-U_M
-
-- A Python Guide to the Fibonacci Sequence (Real Python): https://realpython.com/fibonacci-sequence-python/
-
-- The Collatz Sequence in Python (Medium): https://medium.com/the-art-of-python/the-collatz-sequence-in-python-eb7e1f1b4f9e
-
-- Memoization with Fibonacci and Collatz Sequences: https://chrishenson.net/posts/2020-06-03-memo.html
+* How to Program Fibonacci Sequence Recursively | Python for Math: https://www.youtube.com/watch?v=Qk0zUZW-U_M
+* A Python Guide to the Fibonacci Sequence (Real Python): https://realpython.com/fibonacci-sequence-python/
+* The Collatz Sequence in Python (Medium): https://medium.com/the-art-of-python/the-collatz-sequence-in-python-eb7e1f1b4f9e
+* Memoization with Fibonacci and Collatz Sequences: https://chrishenson.net/posts/2020-06-03-memo.html
+* Python Closures (Real Python): https://realpython.com/python-closure/
+* Collatz Conjecture (Numberphile): https://www.youtube.com/watch?v=094y1Z2wpJg
+* Python Recursion (Real Python): https://realpython.com/python-recursion/

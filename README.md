@@ -1,6 +1,6 @@
 # Lab 06 - Pease Number Calculator
 Abiola Bamgbose
-CS3302 - NPS
+CS3022 - NPS
 
 ## What it does
 

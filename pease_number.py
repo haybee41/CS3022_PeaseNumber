@@ -1,7 +1,7 @@
 """
 Abiola Bamgbose
 Pease Number Calculator
-CS3302 Lab 06
+CS3022 Lab 06
 
 Calculates Pease number from birthday using Fibonacci and Collatz sequences.
 Uses pure functional programming - no loops, only recursion and memoization.
@@ -144,7 +144,6 @@ def add_em_up(cfb):
 def calc_pease_monadic(mm, dd, yyyy):
     """
     Full calculation using monadic chaining.
-    This is the Extra Credit 1 implementation.
     """
     return (
         check_birthday(mm, dd, yyyy)
@@ -278,7 +277,7 @@ def test_example():
     return exp_pease == act_pease
 
 def show_extra_credits():
-    """Demo the three extra credit features."""
+    """Demo the three EC features."""
     print("\n" + "="*55)
     print("EXTRA CREDIT DEMO")
     print("="*55)

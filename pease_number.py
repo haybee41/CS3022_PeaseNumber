@@ -1,7 +1,7 @@
 """
 Abiola Bamgbose
 Pease Number Calculator
-CS3310 Lab 06
+CS3302 Lab 06
 
 Calculates Pease number from birthday using Fibonacci and Collatz sequences.
 Uses pure functional programming - no loops, only recursion and memoization.

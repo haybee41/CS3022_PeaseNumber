@@ -1,6 +1,6 @@
 # Lab 06 - Pease Number Calculator
 Abiola Bamgbose
-CS3310 - NPS
+CS3302 - NPS
 
 ## What it does
 
@@ -16,7 +16,8 @@ Interactive mode:
 python pease_number.py
 ```
 
-Run tests (verifies April 10, 1982 = 218):
+Run tests for example:
+(verifies April 10, 1982 = 218):
 ```
 python pease_number.py --test
 ```
